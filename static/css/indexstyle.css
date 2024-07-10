@@ -1,0 +1,27 @@
+p{
+    background-color: burlywood;
+    font-weight: bold;
+    padding: 50px;
+}
+h2{
+    color: blue;
+    background-color: cornflowerblue;
+    line-height: 100px;
+    text-align: center;
+    text-shadow: 3px 12px 12px darkred;
+}
+.home{
+    display: flex;
+    color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 50px;
+    background-color: gray;
+
+}
+img{
+    border-radius: 30px;
+    opacity: 0.8;
+    margin-right: 30px;
+
+}
